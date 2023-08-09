@@ -1,7 +1,2 @@
-https://damaall.github.io/archives/2023/08/10/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
-https://damaall.github.io/archives/tags/index.html
-https://damaall.github.io/archives/categories/index.html
 https://damaall.github.io/archives/2023/08/09/hello-world/
 https://damaall.github.io/archives
-https://damaall.github.io/archives/tags/hexo/
-https://damaall.github.io/archives/tags/Blog/
