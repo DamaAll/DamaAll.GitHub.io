@@ -6,7 +6,7 @@
   <link href="https://damaall.github.io/atom.xml" rel="self"/>
   
   <link href="https://damaall.github.io/"/>
-  <updated>2023-08-10T08:51:32.957Z</updated>
+  <updated>2023-08-10T20:25:09.525Z</updated>
   <id>https://damaall.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>生活日常（一）</title>
+    <link href="https://damaall.github.io/2023/08/11/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>https://damaall.github.io/2023/08/11/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2023-08-10T20:07:20.000Z</published>
+    <updated>2023-08-10T20:25:09.525Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天和國中同學約好要出去吃飯，地點是在大坪林站附近的 <a href="https://g.co/kgs/hs2FJ4">《輪流請客 x GLAMAIR 韓式餐廳 二號店》</a>，我們是預訂晚上7點的訂位，在路上還有點在飄雨，慶幸與沒有下得太大，一進去餐廳裡面就發現了人沒有很多，可能是因為下雨的關係，我和朋友是點了店員所推薦的3人分享餐，3人分享餐的內容是鍋物、主食、人氣排行榜各擇一，鍋物我們是點韓式醬燒肉鍋升級牛肉+20，</p><p>![韓式料理]（img&#x2F;IMG_2795.HEIC）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天和國中同學約好要出去吃飯，地點是在大坪林站附近的 &lt;a href=&quot;https://g.co/kgs/hs2FJ4&quot;&gt;《輪流請客 x GLAMAIR 韓式餐廳 二號店》&lt;/a&gt;，我們是預訂晚上7點的訂位，在路上還有點在飄雨，慶幸與沒有下得太大，一進去餐廳裡面就發現了人沒</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://damaall.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="Friends" scheme="https://damaall.github.io/tags/Friends/"/>
+    
+    <category term="Life" scheme="https://damaall.github.io/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>部落格的第一篇文章</title>
     <link href="https://damaall.github.io/2023/08/10/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://damaall.github.io/2023/08/10/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2023-08-09T19:03:21.000Z</published>
-    <updated>2023-08-10T08:51:32.957Z</updated>
+    <updated>2023-08-10T20:05:26.899Z</updated>
     
     <content type="html"><![CDATA[<p>今天趁著打工休假來寫一下部落格，打算增加自己的作品集，為未來應徵實習或公司的時候有個東西可以給別人看，現在第一篇文章的進度大概落在首頁有個大概的雛形，希望後面能在一個禮拜內做出完整的樣子，再過五天就要跟國中同學去小琉球玩個三天兩夜，好爽ㄛ。</p>]]></content>
     
@@ -33,9 +59,9 @@
     <category term="日記" scheme="https://damaall.github.io/categories/%E6%97%A5%E8%A8%98/"/>
     
     
-    <category term="hexo" scheme="https://damaall.github.io/tags/hexo/"/>
+    <category term="Life" scheme="https://damaall.github.io/tags/Life/"/>
     
-    <category term="Blog" scheme="https://damaall.github.io/tags/Blog/"/>
+    <category term="hexo" scheme="https://damaall.github.io/tags/hexo/"/>
     
   </entry>
   
