@@ -6,7 +6,7 @@
   <link href="https://damaall.github.io/atom.xml" rel="self"/>
   
   <link href="https://damaall.github.io/"/>
-  <updated>2023-08-09T19:11:48.327Z</updated>
+  <updated>2023-08-10T08:51:32.957Z</updated>
   <id>https://damaall.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://damaall.github.io/2023/08/10/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://damaall.github.io/2023/08/10/%E9%83%A8%E8%90%BD%E6%A0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2023-08-09T19:03:21.000Z</published>
-    <updated>2023-08-09T19:11:48.327Z</updated>
+    <updated>2023-08-10T08:51:32.957Z</updated>
     
     <content type="html"><![CDATA[<p>今天趁著打工休假來寫一下部落格，打算增加自己的作品集，為未來應徵實習或公司的時候有個東西可以給別人看，現在第一篇文章的進度大概落在首頁有個大概的雛形，希望後面能在一個禮拜內做出完整的樣子，再過五天就要跟國中同學去小琉球玩個三天兩夜，好爽ㄛ。</p>]]></content>
     
@@ -29,6 +29,8 @@
     <summary type="html">建立部落格的第一篇文章</summary>
     
     
+    
+    <category term="日記" scheme="https://damaall.github.io/categories/%E6%97%A5%E8%A8%98/"/>
     
     
     <category term="hexo" scheme="https://damaall.github.io/tags/hexo/"/>
